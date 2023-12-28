@@ -1,0 +1,28 @@
+.header{
+    height: 10vh;
+    justify-content: space-between;
+
+
+}
+.inside{
+    width: 30%;
+    justify-content: space-between;
+}
+.left{
+    font-size: large;
+}
+@media (max-width:755px){
+    .inside{
+        width: 70%;
+        padding-left: 5vh;
+        
+    }
+    .left{
+        font-size: 14px;
+    }
+}
+.links{
+    width: 10vh;
+    padding-left: 1vh;
+    font-weight: bold;
+}

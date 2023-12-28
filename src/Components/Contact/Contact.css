@@ -1,0 +1,14 @@
+.contact{
+    height: 90vh;
+    width: 100%;
+    background-image: linear-gradient(#c1c2c3,#8d9b9f);
+}
+.icons{
+    height: 80vh;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    height: 10vh;
+}

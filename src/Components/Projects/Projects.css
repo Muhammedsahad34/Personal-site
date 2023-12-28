@@ -1,0 +1,28 @@
+.project{
+    background-image: linear-gradient(#c1c2c3,#8d9b9f);
+    width: 100%;
+    min-height: 90vh;
+}
+.first-project{
+    width: 80%;
+    min-height: 10vh;
+    border-left: 1px solid #566266;
+    border-top: 1px solid #566266;
+    box-shadow: 5px 5px 5px #566266;
+    
+}
+.btnn{
+    background-color: #566266;
+}
+.btnn:hover{
+    background-color: #8d9b9f;
+}
+
+@media (max-width:755px){
+    .title{
+        font-size: 16px;
+    }
+    .cont{
+        font-size: 14px;
+    }
+}

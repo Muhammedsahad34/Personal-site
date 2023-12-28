@@ -1,0 +1,14 @@
+.about-2{
+    background-image: linear-gradient(#c1c2c3,#8d9b9f);
+    min-height: 90vh;
+}
+h2{
+    text-decoration: underline;
+    text-decoration-color: rgb(8, 9, 10);
+}
+.introduction,.education,.skills,.passion,.projects,.strength{
+    width: 60%;
+}
+.about-2::-webkit-scrollbar{
+    display: none;
+}

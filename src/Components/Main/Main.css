@@ -1,0 +1,23 @@
+.left-content{
+    width:100%;
+    height: 90vh;
+}
+.right-content{
+    height: 90vh;
+}
+img{
+    height: 90vh;
+    width:100%;
+}
+.row{
+    background-image: linear-gradient(#c1c2c3,#8d9b9f);
+}
+span{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.about{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
