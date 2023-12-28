@@ -2,6 +2,7 @@
   "name": "image-slider",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Muhammedsahad34.github.io/Personal-site",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
